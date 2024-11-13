@@ -1,0 +1,120 @@
+/* .name{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.test a{
+    text-decoration: none;
+}
+.test span{
+    font-size: 21px;
+    margin: 0px;
+}
+
+.name a{
+    margin-right: 30px;
+    font-size: 22px;
+     
+}
+
+
+
+.nextt{
+    text-align: center;
+    margin-top: 70px;
+}
+
+.page{
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    padding-left: 100px;
+    font-size: 30px;
+}
+
+.otline img{
+
+    height: 100%;
+    width: 100%;
+}
+.otline{
+    height: 200px;
+    width: 330px;
+}
+
+.good{
+    margin-top: 50px;
+}
+
+.best{
+    margin-top: 100px;
+    width: 100%;
+    background: #f8f9fa;
+}
+
+.slider{
+    padding-top: 30px;
+    background-color:rgb(138, 123, 123);
+    width: 330px;
+    height: 170px;
+    border-radius: 2px;
+    padding: 20px;
+}
+
+.mins{
+  margin-left: 140px;  
+}
+
+.left p{
+width: 500px;
+}
+.BACK{
+    text-align:right ;
+    margin-left: 450px;
+}
+
+
+.left{
+   
+    margin-top: 100px;
+}
+.read{
+    color:rgb(155, 22, 142);
+} */
+.name{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.test a{
+    text-decoration: none;
+}
+.test span{
+    font-size: 21px;
+    margin: 0px;
+}
+
+.name a{
+    margin-right: 30px;
+    font-size: 22px;
+     
+}
+
+
+.nextt{
+    text-align: center;
+}
+.left p{
+width: 500px;
+}
+.good{
+    background-color: #f2f2f2;
+}
+
+.BACK a{
+    margin-left: 400px;
+}
+
+.best{
+    background-color: rgb(210, 210, 230);
+}
